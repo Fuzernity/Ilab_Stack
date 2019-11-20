@@ -1,0 +1,33 @@
+	There you can see Stack arguments and elements of its data
+	 The size of Stack - 23
+	 The current elements in dynamic memory - 30
+	 The current error code - 0
+
+	 Hash value - 4293891
+
+	 First canary value - 5647382910
+	 Second canary value - 5647382910
+
+{1} = 1
+{2} = 16
+{3} = 81
+{4} = 256
+{5} = 625
+{6} = 1296
+{7} = 2401
+{8} = 4096
+{9} = 6561
+{10} = 10000
+{11} = 14641
+{12} = 20736
+{13} = 28561
+{14} = 38416
+{15} = 50625
+{16} = 65536
+{17} = 83521
+{18} = 104976
+{19} = 130321
+{20} = 160000
+{21} = 194481
+{22} = 234256
+{23} = 279841
